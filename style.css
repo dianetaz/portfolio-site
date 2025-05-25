@@ -1,0 +1,53 @@
+/* Style the entire page */
+body {
+    background-color: #fde8dd;  /* light blue background */
+    font-family: "Didot", serif;
+    color: #53453b;
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+/* Style the main heading */
+h1 {
+    color: #893200;
+    text-align: center;
+}
+
+/* Style subheadings */
+h2, h3 {
+    color: #ffa163;
+    text-align: center;
+}
+
+/* Style paragraphs */
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: center;
+}
+
+/* Style links */
+a {
+    color: #d87c64;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Style the image */
+img {
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+    width: 200px;
+}
+
+/* Style the list */
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+    text-align: center;
+}
